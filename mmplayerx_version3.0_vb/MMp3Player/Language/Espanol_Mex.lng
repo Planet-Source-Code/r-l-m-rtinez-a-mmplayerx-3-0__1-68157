@@ -1,0 +1,266 @@
+[language file for music mp3 player x v. 3.0 spanish]
+Reproducir
+  Archivo...
+  Folder...
+  Nueva Busqueda
+Ventanas
+  Lista de Reproduccion
+  Biblioteca Multimedia
+  Equalizador
+  Mostrar Visualizacion
+  Maximizar Caratula
+  Editar Track(s) Tag
+  Karaoke
+controles de reproducción
+  volumen
+    subir volumen  
+    bajar volumen
+  track anterior
+  reproducir
+  pausar
+  detener
+  siguiente track
+  intro 10 seg.
+  repetir track
+  silencio
+  orden aleatorio
+  atras 5 seg.
+  adelante 5 seg.
+opciones
+skins
+  << explorador de skins >>
+transparencia
+  personalizar
+acerca de...
+salir
+acerca de mmplayerx
+caratula actual
+karaoke
+  [ letras no encontradas ]
+  menu
+  minimizar
+  Mini Yo
+  salir
+  sin visualización
+  analizador de espectro
+  osiloscopio
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+---no usado---
+editor de tags + información mpeg
+  multiples tracks estan seleccionados, selecciona los checkboxs para aplicar los cambios  a todos los archivos seleccionados.
+  seleccionar todo
+  tags
+  karaoke
+  agregar
+  deshacer
+  aceptar
+  cancelar
+  aplicar
+  Caratula
+   Agregar C.
+   Remover C.
+opciones
+  aceptar
+  cancelar
+  aplicar
+aplicación
+  dirección config.
+    trayectoria de skins y configuración:
+    explorar...
+    nota: algunas opciones requieren que se reinicie la aplicación.
+    memoria libre (fisica):
+  aplicación
+    lenguaje:
+    siempre arriba.
+    mostrar splash screen.
+    permitir multiples instancias.
+    habilitar menu en drives y directorios.
+    mostrar mmplayerx en:
+    barra de tareas.
+    bandeja de sistema.
+  transparencia
+    transparencia(solo win 2000 o sup.)
+skins
+  skin actual:
+  información:
+  cargar región desde archivo.
+wallpaper
+  opciones de fondo de escritorio.
+  no alterar.
+  ajustar.
+  centrar.
+  mosaico.
+  proporcional.
+formato playlist
+  formato lista de reproducción.
+  formato de texto reproduciendo.
+  tipo de scroll:
+    rotar.
+    zig zag.
+  velocidad del scroll:
+reproductor
+  reproducir archivos:
+  mostrar icono en bandeja de sistema:
+    anterior track.
+    reproducir.
+    pausar.
+    detener.
+    siguente track.
+  crossfade entre tracks (ms):
+  crossfade en detener (ms):
+  reproducir al inicio.
+efectos fx
+  coro
+    habilitar coro.
+      mezcla:
+      profundidad:
+      retroacción:
+      frecuencía:
+      forma de onda:
+      retrazo:
+      fase:
+  compresor
+    habilitar compresor. 
+      incremento:
+      ataque:
+      edición:
+      umbral:  
+      proporción:
+      preretrazo:
+  distorción
+    habilitar distorción:
+      incremento:
+      bordes:
+      frec. central:
+      ancho de frec.:
+      atenuación:     
+  eco
+    habilitar eco.
+      mezcla:
+      retroaccion:
+      atraso izq.:
+      atraso der.:
+      atraso central:
+  flanger
+    habilitar flanger.
+      mezcla:
+      profundidad:
+      retroaccion:
+      frecuencia:
+      forma de onda:
+      retrazo:
+      fase:
+  gargarizar
+    habilitar gargarizar.
+      hz:
+      forma de onda: 
+  i3dl2 reverberación      
+    habilitar i3d nivel 2 reverberación.
+      cuarto:
+      cuarto hf:
+      factor giratorio: 
+      tiempo de decadencia:
+      prop. decadencia hf:
+      reflecciones:
+      atraso reflec.:
+      reverberación:
+      atraso de rev.:
+      difusión:
+      densidad:
+      hf referencia:
+  reverberación
+    habilitar reverberación de ondas.
+      incremento:
+      mezcla reverberación: 
+      tiempo de rev.:
+      hf proporción:
+  valores por default
+  desabilitar todos
+equalizador
+  habilitar eq.
+  presentes:
+  borrar eq
+  guardar eq
+  nombre del equalizador:
+  borrar equalizador:
+visualización
+  visualizaciones:
+  presentes:
+  nuevos:
+  tipo fondo:
+  peaks:
+  barras:
+  archivo imagen:
+  escala:
+  color barras:
+  num. barras:
+  espacio:
+  reflejo:
+  color peak:
+  alto peak:
+  gravedad peak:
+  gradiente:
+  color fondo:
+  color linea:
+  lineas:
+  alineacion:
+  guardar
+  guardar como
+  borrar
+  mostrar
+  borrar visualizacion:
+  nombre visualizacion:
+  anterior visualizacion
+  siguiente visualizacion
+  configurar ...
+  salir
+  guardar config.
+  fisica:
+  virtual:
+  archivo:
+buscar archivos.
+buscar en:
+explorar...
+comenzar a buscar
+detener busqueda
+Selecciona el directorio a buscar.
+Colocar Caratula como fondo de pantalla
+Opciones Biblioteca
+  Remover Archivos Eliminados de la biblioteca
+  agregar audio a la biblioteca
+Recargar Base de datos
+Borrar Lista de Reproduccion
+Buscar
+Comenzar a Buscar
+reproducir seleccionados agregar
+reproducir todos agregar
+reproducir seleccionados nuevo
+reproducir todos nuevo
+guardar todo como lista
+editar informacion de archivos
+explorar carpeta
+remover de la biblioteca
+Guardar Lista de Reproduccion
+Agregar Archivos
+Quitar Tracks
+ Quitar Seleccionados
+ Limpiar Lista
+ Quitar Archivos Borrados
+Otras Opciones
+ Ordenar por Titulo	
+ Ordenar por Artista
+ Ordenar por Archivo
+ Editar Archivo(s)
+Lista de Reproduccion
+  Abrir Lista de Biblioteca
+ Guardar lista de reproduccion
+ Administrador de listas

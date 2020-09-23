@@ -1,0 +1,52 @@
+========================================================================
+  [ E N G L I S H ]
+
+   I.- Rename the file fmod.txt to fmod.dll   
+      fmod.txt ---> fmod.dll  
+
+   Components indispensables:
+     - FMOD.dll version 3.73 (in app path)
+     - Microsoft Common Dialog Control 6.0
+     - Microsoft Windows Common Control 5.0
+     - Microsoft Windows Common Control 6.0
+     - :-) VideoSoft VSFlex 6.0 Controls (OLEDB)
+
+   References:
+     - Microsoft Scripting Runtime.
+     - Microsoft Activex Data Objects 2.0 Library
+     
+    You can dowload the components from web page.
+    
+    Note: Sometimes Visual Basic not detect the library
+     if this happen, only copy FMOD.dll to
+     c:\windows\system32
+     
+     for the exe file (EXE) not is necessary.
+
+
+========================================================================
+  [ S P A N I S H ]
+
+   I.- Renombra el archivo fmod.txt a fmod.dll
+      fmod.txt ---> fmod.dll 
+
+   Componentes necesarios:
+
+    - FMOD.dll  version 3.73 (en la mismo directorio)
+    - Microsoft Common Dialog Control 6.0
+    - Microsoft Windows Common Control 5.0
+    - Microsoft Windows Common Control 6.0
+    - :-) VideoSoft VSFlex 6.0 Controls (OLEDB)
+
+   Referencias:
+     - Microsoft Scripting Runtime.
+     - Microsoft Activex Data Objects 2.0 Library
+
+   Puedes descar los componentes de la pagina.    
+    
+   Nota: En ocaciones Visual Basic no detecta la libreria
+    si esto sucede, copia fmod.dll a:
+    c:\windows\system32
+    
+    para el archivo executable (EXE) si detecta la libreria
+    en el mismo directorio.
